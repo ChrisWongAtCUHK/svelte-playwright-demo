@@ -4,5 +4,8 @@
     playwright codegen http://localhost:8080/
     ```
     ```
+    playwright codegen http://localhost:6006/
+    ```
+    ```
     playwright codegen --target python -o svelte-example.py http://localhost:8080/
     ```

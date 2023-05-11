@@ -9,5 +9,15 @@ References
   ```
   $ cd svelte-project
   $ npm install
+  ```
+  ```
   $ npm run dev
   ```
+* [Storybook for Svelte](https://storybook.js.org/blog/storybook-for-svelte/)
+    ```
+    $ cd svelte-project
+    $ npx sb init
+    ```
+    ```
+    yarn storybook
+    ```
